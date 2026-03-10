@@ -17,6 +17,10 @@ struct Node {
 Node* root = NULL;
 
 
+
+
+
+
 void insertion(int x) {
     Node* n = new Node(x);
 
