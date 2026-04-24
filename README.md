@@ -1,4 +1,4 @@
-# DSA Labs — C++
+# DSA - C++
 
 Data Structures and Algorithms implementations in C++, covering core concepts studied during my second year at UET Taxila.
 
