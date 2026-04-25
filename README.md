@@ -2,17 +2,16 @@
 <br/>
 
 # Data Structures & Algorithms
-### C++ · UET Taxila
+### C++
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)]()
-[![University](https://img.shields.io/badge/UET-Taxila-8B0000?style=flat-square)]()
+
 
 </div>
 
 ---
 
-Implementations of fundamental data structures and algorithms in C++, written from scratch — no STL containers, no shortcuts. Every structure is built at the pointer and memory level to understand what's actually happening under the hood.
+Implementations of fundamental data structures and algorithms in C++, written from scratch - no STL containers, no shortcuts. Every structure is built at the pointer and memory level to understand what's actually happening under the hood.
 
 ---
 
@@ -21,20 +20,20 @@ Implementations of fundamental data structures and algorithms in C++, written fr
 | Module | What's Inside |
 |---|---|
 | [`Arrays_and_sorting/`](./Arrays_and_sorting) | Bubble sort, linear search, binary search with duplicate handling |
-| [`LinkedLists/`](./LinkedLists) | Singly, sorted, doubly, circular — including a playlist simulation |
+| [`LinkedLists/`](./LinkedLists) | Singly, sorted, doubly, circular - including a playlist simulation |
 | [`Stacks/`](./Stacks) | Array-based & linked-list-based; string reversal, parenthesis validation |
 | [`Queues/`](./Queues) | Circular queue, priority queue |
 | [`Hashing/`](./Hashing) | Hash tables with linear probing and separate chaining |
-| [`Tree/`](./Tree) | BST — insert, delete, search, preorder traversal |
+| [`Tree/`](./Tree) | BST - insert, delete, search, preorder traversal |
 | [`infix_and_postfix/`](./infix_and_postfix) | Infix → postfix conversion, postfix evaluation |
 | [`Matrix_operations/`](./Matrix_operations) | Matrix manipulation |
-| [`University_bus_scheduling/`](./University_bus_scheduling) | Applied project — real scheduling problem solved with DSA |
+| [`University_bus_scheduling/`](./University_bus_scheduling) | Applied project - real scheduling problem solved with DSA |
 
 ---
 
 ## Design Philosophy
 
-Every implementation here is written **without STL data structures**. No `std::stack`, no `std::queue`, no `std::list`. The point isn't reinventing the wheel — it's understanding the wheel.
+Every implementation here is written **without STL data structures**. No `std::stack`, no `std::queue`, no `std::list`. The point isn't reinventing the wheel - it's understanding the wheel.
 
 That means:
 - Manual memory management with raw pointers
@@ -69,7 +68,7 @@ g++ -std=c++17 -o out <file>.cpp && ./out
 
 ---
 
-## Author
 
-**Arslan Fareed** — CS Student, UET Taxila  
+
+**Arslan Fareed**   
 [github.com/rslaanfareed](https://github.com/rslaanfareed)
